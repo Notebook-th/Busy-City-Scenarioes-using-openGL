@@ -70,5 +70,4 @@ Integrating audio for a more immersive experience.
 
 Refining collision mechanics for realistic interactions.
 
-## 📷 Project Snapshots
 
